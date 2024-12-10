@@ -28,7 +28,7 @@ The **Medicine Database App** is an Android application developed in Java that h
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Abekaesh/Medicine-Database-App.git
+   git clone https://github.com/Abekaesh/Medical-Database-Management.git
    ```
 2. Open the project in **Android Studio**.
 3. Let Android Studio sync the project with Gradle and resolve dependencies.
